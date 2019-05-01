@@ -1,0 +1,23 @@
+{
+  "name": "js-test-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devtoni/js-test-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devtoni/js-test-template/issues"
+  },
+  "homepage": "https://github.com/devtoni/js-test-template#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
