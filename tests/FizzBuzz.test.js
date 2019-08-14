@@ -1,6 +1,8 @@
 
+import FizzBuzz from '../src/FizzBuzz'
+
 describe('FizzBuzz should', () => {
     it('work as expected', () => {
-        expect(true).toBe(true)
+        expect(FizzBuzz(3, 4)).toBe(7)
     })
 })
